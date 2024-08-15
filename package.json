@@ -1,7 +1,7 @@
 {
   "name": "@nappr/tsproject",
   "description": "CLI to create tsconfig files from a tsproject config file",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": false,
   "peerDependencies": {
     "typescript": "^5.5.4"
